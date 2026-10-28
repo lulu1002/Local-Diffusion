@@ -23,7 +23,7 @@ jobs:
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.24.5'   # versão estável
+          flutter-version: '3.27.0'   # versão estável
           channel: 'stable'
           cache: true
 
